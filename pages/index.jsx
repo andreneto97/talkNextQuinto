@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 const Index = () => (
   <div>
-    <span>Hello world</span>
+    <span>Sou o Index</span><br />
     <Link href='/about'>
       <button>Go to ABout</button>
     </Link>
